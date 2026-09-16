@@ -1,0 +1,17 @@
+body{
+    margin:0;
+    background: linear-gradient(to left bottom, lightgreen, lightblue);
+    min-height: 100vh; /*vh- viewport height */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: monospace;
+    color: darkcyan;
+
+}
+
+
+.container{
+    background: rgba(255, 255, 255, 0.3)
+
+}
